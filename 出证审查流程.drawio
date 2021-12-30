@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-30T12:01:54.612Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="jYV-mCqBaubpYu5yFrur" version="16.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-30T12:30:37.443Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="awYajb6bVYFkrwhWAR4r" version="16.1.2" type="github">
   <diagram id="RNjr4j0GBJ4JUxg0UdfD" name="Page-1">
     <mxGraphModel dx="981" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="Ub8pnknUyiXxGgldzIyQ-23" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="Ub8pnknUyiXxGgldzIyQ-2" vertex="1">
           <mxGeometry x="45" y="210" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ub8pnknUyiXxGgldzIyQ-3" value="签发稿" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="Ub8pnknUyiXxGgldzIyQ-3" value="签发稿&lt;br&gt;（展示记录）" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="380" y="30" width="100" height="1080" as="geometry" />
         </mxCell>
         <mxCell id="Ub8pnknUyiXxGgldzIyQ-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="Ub8pnknUyiXxGgldzIyQ-3" vertex="1">
@@ -40,7 +40,13 @@
         <mxCell id="Ub8pnknUyiXxGgldzIyQ-26" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="Ub8pnknUyiXxGgldzIyQ-3" vertex="1">
           <mxGeometry x="45" y="330" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ub8pnknUyiXxGgldzIyQ-4" value="审批" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="4UHlv2itUR0P1ygIJtA1-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="Ub8pnknUyiXxGgldzIyQ-3">
+          <mxGeometry x="45" y="700" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4UHlv2itUR0P1ygIJtA1-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="Ub8pnknUyiXxGgldzIyQ-3">
+          <mxGeometry x="45" y="840" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ub8pnknUyiXxGgldzIyQ-4" value="审批&lt;br&gt;（展示记录）" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="560" y="30" width="100" height="1080" as="geometry" />
         </mxCell>
         <mxCell id="Ub8pnknUyiXxGgldzIyQ-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="Ub8pnknUyiXxGgldzIyQ-4" vertex="1">
@@ -48,6 +54,12 @@
         </mxCell>
         <mxCell id="Ub8pnknUyiXxGgldzIyQ-27" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="Ub8pnknUyiXxGgldzIyQ-4" vertex="1">
           <mxGeometry x="45" y="460" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4UHlv2itUR0P1ygIJtA1-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="Ub8pnknUyiXxGgldzIyQ-4">
+          <mxGeometry x="45" y="700" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4UHlv2itUR0P1ygIJtA1-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="Ub8pnknUyiXxGgldzIyQ-4">
+          <mxGeometry x="45" y="840" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ub8pnknUyiXxGgldzIyQ-5" value="制证" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="720" y="30" width="100" height="1080" as="geometry" />
@@ -102,6 +114,26 @@
         </mxCell>
         <mxCell id="4UHlv2itUR0P1ygIJtA1-4" value="驳回 保留核稿信息&amp;nbsp;&lt;br&gt;修改驳回字段" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4UHlv2itUR0P1ygIJtA1-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.986;entryY=0.504;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;" edge="1" parent="1" source="4UHlv2itUR0P1ygIJtA1-8" target="4UHlv2itUR0P1ygIJtA1-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4UHlv2itUR0P1ygIJtA1-8" value="撤回" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4UHlv2itUR0P1ygIJtA1-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.986;entryY=0.504;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;" edge="1" parent="1" source="4UHlv2itUR0P1ygIJtA1-6" target="4UHlv2itUR0P1ygIJtA1-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="605" y="770" as="sourcePoint" />
+            <mxPoint x="434.8599999999999" y="770.3199999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4UHlv2itUR0P1ygIJtA1-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4UHlv2itUR0P1ygIJtA1-11" target="4UHlv2itUR0P1ygIJtA1-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4UHlv2itUR0P1ygIJtA1-18" value="重新提交" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4UHlv2itUR0P1ygIJtA1-17">
+          <mxGeometry x="-0.3444" relative="1" as="geometry">
+            <mxPoint x="19" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
