@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-30T12:30:37.443Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="awYajb6bVYFkrwhWAR4r" version="16.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-30T13:00:19.889Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="I90HJKJrMDxRtapORUt6" version="16.1.2" type="github">
   <diagram id="RNjr4j0GBJ4JUxg0UdfD" name="Page-1">
-    <mxGraphModel dx="981" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,10 +73,10 @@
         <mxCell id="Ub8pnknUyiXxGgldzIyQ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ub8pnknUyiXxGgldzIyQ-7" target="Ub8pnknUyiXxGgldzIyQ-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ub8pnknUyiXxGgldzIyQ-14" value="新增一条数据 &lt;br&gt;type =2" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Ub8pnknUyiXxGgldzIyQ-14" value="一条数据 &lt;br&gt;type =2" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="110" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ub8pnknUyiXxGgldzIyQ-15" value="新增一条数据 &lt;br&gt;type =3" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Ub8pnknUyiXxGgldzIyQ-15" value="一条数据 &lt;br&gt;type =3" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="110" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ub8pnknUyiXxGgldzIyQ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ub8pnknUyiXxGgldzIyQ-12" target="Ub8pnknUyiXxGgldzIyQ-16" edge="1">
@@ -97,20 +97,40 @@
         <mxCell id="Ub8pnknUyiXxGgldzIyQ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ub8pnknUyiXxGgldzIyQ-26" target="Ub8pnknUyiXxGgldzIyQ-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="4UHlv2itUR0P1ygIJtA1-20" value="设置卷宗驳回状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ub8pnknUyiXxGgldzIyQ-34">
+          <mxGeometry x="-0.2745" y="-1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Ub8pnknUyiXxGgldzIyQ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ub8pnknUyiXxGgldzIyQ-27" target="Ub8pnknUyiXxGgldzIyQ-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4UHlv2itUR0P1ygIJtA1-21" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E8%AE%BE%E7%BD%AE%E5%8D%B7%E5%AE%97%E9%A9%B3%E5%9B%9E%E7%8A%B6%E6%80%81%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22301.66666666666674%22%20y%3D%22400%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E8%AE%BE%E7%BD%AE%E5%8D%B7%E5%AE%97%E9%A9%B3%E5%9B%9E%E7%8A%B6%E6%80%81%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22301.66666666666674%22%20y%3D%22400%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ub8pnknUyiXxGgldzIyQ-35">
+          <mxGeometry x="-0.6314" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4UHlv2itUR0P1ygIJtA1-22" value="设置卷宗驳回状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ub8pnknUyiXxGgldzIyQ-35">
+          <mxGeometry x="-0.6603" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Ub8pnknUyiXxGgldzIyQ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ub8pnknUyiXxGgldzIyQ-36" target="Ub8pnknUyiXxGgldzIyQ-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ub8pnknUyiXxGgldzIyQ-10" value="新增一条数据 &lt;br&gt;type =1" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4UHlv2itUR0P1ygIJtA1-19" value="制证驳回" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ub8pnknUyiXxGgldzIyQ-38">
+          <mxGeometry x="0.0846" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ub8pnknUyiXxGgldzIyQ-10" value="一条数据 &lt;br&gt;type =1" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="110" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4UHlv2itUR0P1ygIJtA1-2" value="数据合并，兼并拟稿和核稿状态" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="465" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="1190" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4UHlv2itUR0P1ygIJtA1-3" value="复制并新增一条&lt;br&gt;签发稿的状态" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="635" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4UHlv2itUR0P1ygIJtA1-4" value="驳回 保留核稿信息&amp;nbsp;&lt;br&gt;修改驳回字段" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="290" width="120" height="60" as="geometry" />
@@ -119,7 +139,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4UHlv2itUR0P1ygIJtA1-8" value="撤回" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="752.5" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="4UHlv2itUR0P1ygIJtA1-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.986;entryY=0.504;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;" edge="1" parent="1" source="4UHlv2itUR0P1ygIJtA1-6" target="4UHlv2itUR0P1ygIJtA1-8">
           <mxGeometry relative="1" as="geometry">
