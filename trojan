@@ -1,0 +1,1 @@
+source <(curl -sL https://git.io/trojan-install)
